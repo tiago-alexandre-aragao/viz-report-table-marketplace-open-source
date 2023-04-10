@@ -1,3 +1,11 @@
+.juZfIa {
+    border: none;
+    border-radius: 6px;
+    background: rgb(255, 255, 255);
+    box-shadow: none !important;
+}
+
+
 #tooltip {
     position: absolute;
     width: auto;
